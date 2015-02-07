@@ -7,6 +7,6 @@ Run command in project directory:
 
     $ pod install
 
-## NOTE
+## Note
 
 You need to install [Cocoapods](http://cocoapods.org/).
