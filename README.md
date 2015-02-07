@@ -9,4 +9,4 @@ Run command in project directory:
 
 ## NOTE
 
-I need to install [Cocoapods](http://cocoapods.org/).
+You need to install [Cocoapods](http://cocoapods.org/).
